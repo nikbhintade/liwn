@@ -1,6 +1,6 @@
 const axios = require("axios");
 const nacl = require("tweetnacl");
-const {perpareMessage} = require("../../liwn");
+const {perpareMessage} = require("../..");
 
 
 const endpointCall = async () => {

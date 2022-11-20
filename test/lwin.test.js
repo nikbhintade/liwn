@@ -1,7 +1,7 @@
 const expect = require("chai").expect;
 const { describe, it } = require("mocha");
 
-const { generateNonce, verifySignature, perpareMessage } = require("..");
+const { generateNonce, verifySignature, perpareMessage } = require("../..");
 const nacl = require('tweetnacl');
 
 describe("LWIN", () => {
