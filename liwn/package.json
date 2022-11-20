@@ -1,0 +1,19 @@
+{
+  "name": "liwn",
+  "version": "0.0.1",
+  "description": "login with NEAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "nyc": "^15.1.0"
+  }
+}
