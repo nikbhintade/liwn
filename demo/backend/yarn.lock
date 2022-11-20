@@ -1537,8 +1537,9 @@ kareem@2.4.1:
   resolved "https://registry.yarnpkg.com/kareem/-/kareem-2.4.1.tgz#7d81ec518204a48c1cb16554af126806c3cd82b0"
   integrity sha512-aJ9opVoXroQUPfovYP5kaj2lM7Jn02Gw13bL0lg9v0V7SaUc0qavPs0Eue7d2DcC3NjqI6QAUElXNsuZSeM+EA==
 
-liwn@../../liwn/:
+"liwn@https://github.com/nikbhintade/liwn":
   version "0.0.1"
+  resolved "https://github.com/nikbhintade/liwn#f7b88d30c8de030e1dcd8bc49fddf5ae057c2731"
   dependencies:
     tweetnacl "^1.0.3"
 
