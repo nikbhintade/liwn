@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const {generateNonce, perpareMessage, verifySignature} = require("../../../liwn");
+const {generateNonce, perpareMessage, verifySignature} = require("liwn");
 const User = require("../models/userModel");
 
 const nonce = async (req, res) => {
